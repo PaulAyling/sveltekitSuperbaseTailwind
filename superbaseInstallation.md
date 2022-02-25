@@ -1,17 +1,5 @@
-# Svelte kit, superbase , tailwind Boiler Plate 
+# How I installed superbase
 
-This repo uses branches to see completed instalations with first
-* svelteKit
-* svelteKit + superbase
-* svelteKit + superbase + tailwind
-* svelteKit + superbase + tailwind + email auth w
-## Branches
-### 1-SvelteKit
-run
-npm install
-npm run dev
-
-### 2-Superbase
 I wanted to install superbase on a sveltekit installation - not the svelte template that was provided in the instructions. from here
 * https://supabase.com/docs/guides/with-svelte
 
