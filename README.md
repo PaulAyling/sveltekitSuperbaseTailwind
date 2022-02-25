@@ -1,6 +1,7 @@
 # Svelte kit, superbase , tailwind Boiler Plate 
 
-This repo uses branches to see completed instalations with first
+The main branch contains the final repo to see intermediate steps you can got to feature branches, they are;
+
 * svelteKit
 * svelteKit + superbase
 * svelteKit + superbase + tailwind
